@@ -1,0 +1,2 @@
+Add test to your codes,and your second exercise is not working as it should: if the html code tags were removed,it still returns 
+True,which should not be
